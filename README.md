@@ -7,6 +7,7 @@ You just need to fill out the form and the AI will generate your CV for you.
 ## Technologies
 - Semantic Kernel
 - Ollama
+- Postgres
 
 
 ## How to use
